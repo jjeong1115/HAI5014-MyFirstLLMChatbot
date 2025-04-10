@@ -10,6 +10,7 @@ client = OpenAI(
     api_key=token,
 )
 
+
 print("Chatbot is ready! Type 'bye' to exit.")
 
 while True:
